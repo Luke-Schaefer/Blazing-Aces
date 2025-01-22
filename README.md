@@ -1,8 +1,6 @@
 # Blazing Aces
 Blazing Aces reimagines Blackjack with a creative twist - wildcards. Built with C++ and the assistance of SFML, the game was developed for an optimal user experience and a visually appealing design to deliver an unforgettable gaming experience. Built for the AWS Game Builder hackathon!
 
-https://awsdevchallenge.devpost.com/?ref_feature=challenge&ref_medium=discover
-
 ## **Wildcards**
    - Balance Shift: Redistributes card values to even out a player's hand.
    - Duplicate: Copies a random wildcard from another player.
@@ -42,11 +40,5 @@ To run the game, use the following command:
 ```
 make run
 ```
-
-## Contributors
-- https://github.com/GregoriusB
-- https://github.com/kylej22
-- https://github.com/Luke-Schaefer
-- https://github.com/santiagosayshey
 
 *"Fortune Favors the Bold - Play Your Cards Right."*
